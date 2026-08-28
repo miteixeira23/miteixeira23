@@ -19,6 +19,7 @@ Olá! Eu sou a Michelle 👋
 🎨 CSS
 🔧 Git e GitHub
 📊 Dados e automação
+
 📫 Entre em contato
 
 <p align="left"> <a href="https://www.linkedin.com/in/michelletl/"> <img src="https://img.shields.io/badge/LinkedIn-Michelle%20Teixeira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="mailto:SEU_EMAIL_AQUI"> <img src="https://img.shields.io/badge/Gmail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a> </p>
